@@ -11,6 +11,7 @@
 		"@storybook/addon-onboarding": "^1.0.10",
 		"@storybook/addon-styling-webpack": "^0.0.6",
 		"@storybook/blocks": "^7.6.10",
+		"@storybook/cli": "^8.0.5",
 		"@storybook/react": "^7.6.10",
 		"@storybook/react-webpack5": "^7.6.10",
 		"@storybook/test": "^7.6.10",
